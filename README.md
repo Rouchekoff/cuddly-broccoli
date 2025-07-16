@@ -1,10 +1,10 @@
-# Streamlit App Template
+# Streamlit App
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-FF4B4B.svg)](https://streamlit.io)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
-Un template moderne et structuré pour créer des applications d'analyse de données et de business intelligence avec Streamlit. Optimisé pour des données au format Parquet et utilisant Plotly pour des visualisations interactives.
+Approche moderne et structurée pour créer des applications d'analyse de données et de business intelligence avec Streamlit. Optimisé pour des données au format Parquet et utilisant Plotly pour des visualisations interactives.
 
 ## 🌟 Fonctionnalités
 
